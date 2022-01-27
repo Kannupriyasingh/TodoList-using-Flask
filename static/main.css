@@ -1,0 +1,74 @@
+body{
+ margin:0;
+ font-family: sans-serif;
+ background-color: lightblue;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+table, td, th {
+    border: 1px solid #aaa;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+.form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#content {
+    width: 70%;
+}
+
+a {
+ text-decoration: none;
+}
+
+.delete {
+    color: red;
+}
+
+.update {
+    color: blue;
+}
+
+.content_box {
+    width: 100rem;
+    height: 30px;
+}
+
+.submit{
+    background-color: green;
+    width: 100px;
+    height: 33px;
+}
+
+.update{
+    color: blue;
+    width: 100px;
+    height: 33px;
+}
+
+.title {
+    color: green;
+}
+
+.update_title{
+    color: blue;
+}
